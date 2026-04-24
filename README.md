@@ -1,0 +1,2 @@
+# Tibetan_reading_practice
+チベット語つづり読み練習用サイト
